@@ -1,0 +1,10 @@
+[package]
+name = "blockchain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.3.2"
+crypto-hash = "0.3.4"
+rsa = "0.6.1"
+rand = "0.8.5"
